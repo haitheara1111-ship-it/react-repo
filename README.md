@@ -1,16 +1,61 @@
-# React + Vite
+# React Learning Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## About This Project
 
-Currently, two official plugins are available:
+This repository is created for learning and practicing React.js. The goal is to understand React fundamentals and learn how to build user interfaces using reusable components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
 
-## React Compiler
+- **React.js** – JavaScript library for building user interfaces.
+- **Vite** – Frontend build tool.
+- **JavaScript (ES6+)** – Programming language.
+- **HTML5** – Page structure.
+- **CSS3** – Page styling.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## What I Learn
 
-## Expanding the Oxlint configuration
+- React Components
+- JSX
+- Props
+- useState
+- useEffect
+- Event Handling
+- Rendering Lists
+- Conditional Rendering
+- Fetching Data from JSON files
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/haitheara1111-ship-it/react-repo.git
+```
+
+### 2. Open the Project Folder
+
+```bash
+cd react-repo
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the Development Server
+
+```bash
+npm run dev
+```
+
+## Project Purpose
+
+This project is part of my learning journey in React.js. I use it to practice coding, improve my JavaScript skills, and understand how React works.
+
+---
+
+**Author:** Hai Theara
+
+**Status:** Learning and Practicing React.js
